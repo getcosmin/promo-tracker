@@ -19,3 +19,5 @@ class PromotionWithTrackingCode(Promotion):
     
     def get_tracking_codes(self):
         return self.tracking_codes
+
+
